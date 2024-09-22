@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        day3Solution.Day3Main();
+        day4.day4Main();
     }
 }
