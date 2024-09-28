@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hackhanck30days")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75dc0eca9b16371568d51eb8597f891b566e411e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b924c2abdd61a7f9a86e8a22648ccf2ce90886c")]
 [assembly: System.Reflection.AssemblyProductAttribute("hackhanck30days")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hackhanck30days")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
