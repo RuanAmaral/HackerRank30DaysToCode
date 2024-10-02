@@ -1,33 +1,66 @@
+using System;
+using System.Linq;
+using System.Linq.Expressions;
 
- class Person
+ class Persons
 {
-	protected string firstName;
-	protected string lastName;
-	protected int id;
-	
-	public Person(){}
-	public Person(string firstName, string lastName, int identification){
-			this.firstName = firstName;
-			this.lastName = lastName;
-			this.id = identification;
-	}
-	public void printPerson(){
-		Console.WriteLine("Name: " + lastName + ", " + firstName + "\nID: " + id); 
-	}
+    protected string firstName;
+    protected string lastName;
+    protected int id;
+
+    public Persons() { }
+    public Persons(string firstName, string lastName, int identification)
+    {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.id = identification;
+    }
+    public void printPerson()
+    {
+        Console.WriteLine("Name: " + lastName + ", " + firstName + "\nID: " + id);
+    }
 }
 
-class Student : Person{
+class Student : Persons
+{
     private int[] testScores;
     private int[] scores;
 
-    public Student(string firstName, string lastName, int id, int[] scores) : base(firstName, lastName, identification)
+    public Student(string firstName, string lastName, int id, int[] scores) : base(firstName, lastName, id)
     {
         this.scores = scores;
     }
 
     internal string Calculate()
     {
-        throw new NotImplementedException();
+        int average = (int)this.scores.Average();
+
+        if (average < 40)
+        {
+            return ("T");
+        }
+        else if (average < 55)
+        {
+            return ("D");
+        }
+        else if (average < 70)
+        {
+            return ("P");
+        }
+        else if (average < 80)
+        {
+            return ("A");
+        }
+        else if (average < 90)
+        {
+            return ("E");
+        }
+        else
+        {
+            return ("O");
+        }
+
+
     }
 
     /*	
