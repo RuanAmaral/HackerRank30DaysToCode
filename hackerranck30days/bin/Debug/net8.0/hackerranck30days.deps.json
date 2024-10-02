@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hackerranck30days/1.0.0": {
+        "runtime": {
+          "hackerranck30days.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hackerranck30days/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/bin/Debug/net8.0/hackerranck30days
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/bin/Debug/net8.0/hackerranck30days.deps.json
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/bin/Debug/net8.0/hackerranck30days.runtimeconfig.json
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/bin/Debug/net8.0/hackerranck30days.dll
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/bin/Debug/net8.0/hackerranck30days.pdb
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.AssemblyInfoInputs.cache
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.AssemblyInfo.cs
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.csproj.CoreCompileInputs.cache
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.sourcelink.json
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.dll
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/refint/hackerranck30days.dll
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.pdb
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/hackerranck30days.genruntimeconfig.cache
+/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/Debug/net8.0/ref/hackerranck30days.dll

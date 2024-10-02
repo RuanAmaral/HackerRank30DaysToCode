@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ruan/Desenvolvimento/HackerHanck30DaysToCode/hackhanck30days/hackhanck30days.csproj",
-      "projectName": "hackhanck30days",
-      "projectPath": "/home/ruan/Desenvolvimento/HackerHanck30DaysToCode/hackhanck30days/hackhanck30days.csproj",
+      "projectUniqueName": "/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/hackerranck30days.csproj",
+      "projectName": "hackerranck30days",
+      "projectPath": "/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/hackerranck30days.csproj",
       "packagesPath": "/home/ruan/.nuget/packages/",
-      "outputPath": "/home/ruan/Desenvolvimento/HackerHanck30DaysToCode/hackhanck30days/obj/",
+      "outputPath": "/home/ruan/Desenvolvimento/HackerRank30DaysToCode/hackerranck30days/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ruan/.nuget/NuGet/NuGet.Config"
