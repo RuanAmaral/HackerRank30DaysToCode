@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        day16.day16Main();
+        day18.day18Main();
     }
 }
