@@ -17,6 +17,7 @@ class day24Solution
     public static day24Node day24removeDuplicates(day24Node head)
     {
         //Write your code here
+        //My answer
         if (head.next is not null)
         {
             day24Node next = head.next;
@@ -80,9 +81,9 @@ class day24Solution
         while (T-- > 0)
         {
             int data = Int32.Parse(Console.ReadLine());
-            head = insert(head, data);
+            head = day24insert(head, data);
         }
-        head = removeDuplicates(head);
+        head = day24removeDuplicates(head);
         display(head);
     }
 }
