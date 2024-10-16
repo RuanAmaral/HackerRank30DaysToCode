@@ -37,7 +37,7 @@ You can to compare or get some ideas from my codes, thanks to see.
 - [Day 24 - More Linked Lists](./hackerranck30days/days/day24.cs)
 - [Day 25 - Running Time and Complexity](./hackerranck30days/days/day25.cs)
 - [Day 26 - Nested Logic](./hackerranck30days/days/day26.cs)
-- [Day 27 - Testing](./hackerranck30days/days/day27.cs) (Sory but i don't make this test, because in hacker ranck site haven't c# option to do it)
+- [Day 27 - Testing](./hackerranck30days/days/day27.cs) (Sory but i don't make this test, because in hacker rank site haven't c# option to do it)
 - [Day 28 - RegEx, Patterns, and Intro to Databases](./hackerranck30days/days/day28.cs)
 - [Day 29 - Bitwise AND](./hackerranck30days/days/day29.cs)
 
